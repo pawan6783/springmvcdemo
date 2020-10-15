@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class HomeController {
 
 	@RequestMapping("/")
-	public String show(){
-		return "home";
+	public String showPage(){
+		return "main-menu";
 	}
 }
