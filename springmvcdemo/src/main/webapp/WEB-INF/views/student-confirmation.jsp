@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><a href="hello/showForm">Hello World Form</a> </h1>
-<h1><a href="student/showForm">Student Form</a> </h1>
+Student confirmed : ${student.firstName} ${student.lastName }
 </body>
 </html>
