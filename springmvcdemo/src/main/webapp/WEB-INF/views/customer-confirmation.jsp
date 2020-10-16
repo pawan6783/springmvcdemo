@@ -7,8 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><a href="hello/showForm">Hello World Form</a> </h1>
-<h1><a href="student/showForm">Student Form</a> </h1>
-<h1><a href="customer/showForm">Customer Form</a> </h1>
+<h1>Customer confirmation:</h1>
+First Name : ${customer.firstName }
+<br><br>
+Last Name : ${customer.lastName }
+<br><br>
+Free Passes : ${customer.freePasses }
+<br><br>
+Postal Address : ${customer.postalAddress }
+
 </body>
 </html>

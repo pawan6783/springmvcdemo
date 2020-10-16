@@ -1,4 +1,4 @@
-package com.example.springmvcdemo.controller;
+package com.example.springmvcdemo.pojo;
 
 import java.util.HashMap;
 
