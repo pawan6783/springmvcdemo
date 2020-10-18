@@ -15,6 +15,7 @@ Last Name : ${customer.lastName }
 Free Passes : ${customer.freePasses }
 <br><br>
 Postal Address : ${customer.postalAddress }
-
+<br><br>
+Course Code : ${customer.courseCode }
 </body>
 </html>
